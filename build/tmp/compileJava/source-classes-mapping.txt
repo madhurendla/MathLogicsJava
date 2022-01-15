@@ -1,0 +1,2 @@
+com/madhu/practice/math/LeastCommonMultiple.java
+ com.madhu.practice.math.LeastCommonMultiple
