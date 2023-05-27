@@ -79,4 +79,24 @@ public class LeastCommonMultiple {
                 .collect(Collectors.toSet())
                 .size() == 1;
     }
+
+    public int findLCM1(Integer... integers){
+
+        Map<Integer, Integer> masterMap = Arrays
+                .stream(integers)
+                .sorted()
+                .collect(Collectors.toMap(inputIntValue -> inputIntValue, inputIntValue1 -> inputIntValue1));
+        System.out.println(masterMap);
+
+        allOutValuesAreSame1(masterMap);
+
+
+        return 2;
+    }
+
+    private Integer allOutValuesAreSame1(Map<Integer,Integer> masterMap) {
+
+        return 1;
+
+    }
 }

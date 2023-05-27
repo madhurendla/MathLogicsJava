@@ -1,0 +1,15 @@
+
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü®¦µ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ıËÀÿÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Š¿’
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Ì˜èĞ
+N	java:S106%"9Replace this use of System.out or System.err by a logger.(û¹«ü
+N	java:S106Y"9Replace this use of System.out or System.err by a logger.(ü®¦µ
+O
+java:S3400c"9Remove this method and declare a constant for this value.(È¸å
+K
+java:S1172a"0Remove this unused method parameter "masterMap".( ´ËĞÿÿÿÿÿ
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(×à‡
+M
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(µÏ™ƒ

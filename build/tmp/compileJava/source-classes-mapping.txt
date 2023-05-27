@@ -1,2 +1,16 @@
 com/madhu/practice/math/LeastCommonMultiple.java
  com.madhu.practice.math.LeastCommonMultiple
+com/madhu/practice/concepts/MainSingleTon.java
+ com.madhu.practice.concepts.MainSingleTon
+com/madhu/practice/concepts/PractiseLambda.java
+ com.madhu.practice.concepts.PractiseLambda
+com/madhu/practice/math/PrimeNumber.java
+ com.madhu.practice.math.PrimeNumber
+com/madhu/practice/concepts/ReverseString.java
+ com.madhu.practice.concepts.ReverseString
+com/madhu/practice/concepts/SingleTonClass1.java
+ com.madhu.practice.concepts.SingleTonClass1
+com/madhu/practice/concepts/LambdaExpressions.java
+ com.madhu.practice.concepts.LambdaExpressions
+com/madhu/practice/concepts/PhoneNumbersWithLetters.java
+ com.madhu.practice.concepts.PhoneNumbersWithLetters

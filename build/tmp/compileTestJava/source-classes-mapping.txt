@@ -1,2 +1,4 @@
 com/madhu/practice/math/LeastCommonMultipleTest.java
  com.madhu.practice.math.LeastCommonMultipleTest
+com/madhu/practice/math/PrimeNumberTest.java
+ com.madhu.practice.math.PrimeNumberTest

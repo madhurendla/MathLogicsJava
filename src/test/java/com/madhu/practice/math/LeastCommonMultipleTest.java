@@ -13,7 +13,8 @@ public class LeastCommonMultipleTest {
     @Test
     public void testFindLCM(){
         LeastCommonMultiple lcm = new LeastCommonMultiple();
-        int lcmValue = lcm.findLCM(2,3,4,5,6);
+        int lcmValue = lcm.findLCM(2,3,4,5,6,7);
+        System.out.println("LCM value : "+lcmValue);
         Assertions.assertEquals(60,lcmValue);
 
 
